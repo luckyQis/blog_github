@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{185:function(n,t){(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{468:function(n,t,o){"use strict";o.r(t);var s=o(1),e=Object(s.a)({},(function(){var n=this._self._c;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("NewFont")],1)}),[],!1,null,null,null);t.default=e.exports}}])}}]);

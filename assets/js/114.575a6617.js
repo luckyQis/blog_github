@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[114],{496:function(o,s,p){o.exports=p.p+"assets/img/bg-logo.2cfdbb33.svg"}}]);
